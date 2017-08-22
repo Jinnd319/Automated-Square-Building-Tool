@@ -15,4 +15,6 @@
 	counting, then you will need to change the list comprehensions on 
 	lines 88, 93 and 98 respectively. Everything in this script should 
 	work. If there's a problem with the script or if you need help feel
-	free to contact me.
+	free to contact me. I've commented out some print statements in my 
+	code because I thought that you might not like them. If you do like
+	them uncomment them out.
